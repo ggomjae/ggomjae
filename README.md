@@ -1,16 +1,15 @@
-### Hi there 👋
+# 민경재 GGOMJAE
 
-<!--
-**ggomjae/ggomjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Education & Career 🧸
+- (14.03 - 20.08) 명지대 컴퓨터공학과
+- (20.07 - 20.09) 메가존 펜타클 WEB Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Interest 🧸
+- WEB Developer
+
+## Digital Footprints 🌱
+- 개발&일기 블로그 : [블로그](https://blog.naver.com/ggomjae)
