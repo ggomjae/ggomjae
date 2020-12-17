@@ -3,7 +3,7 @@
 ## Education & Career 
 - (14.03 - 20.08) MYONGJI University - Computer Engineering
 - (20.07 - 20.09) Megazone - Pentacle Intern
-- (20.12 -  ING ) ZUMinternet - Web Developer 
+- (20.12 - ) 
 
 ## Interest 
 - Web Developer
