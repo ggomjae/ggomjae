@@ -9,4 +9,5 @@
 - Web Developer
 
 ## Digital Footprints 🌱
-- Development & Diary [BLOG](https://blog.naver.com/ggomjae)
+- Development [BLOG](https://velog.io/@ggomjae)
+- Diary [BLOG](https://blog.naver.com/ggomjae)
