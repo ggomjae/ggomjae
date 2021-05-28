@@ -5,8 +5,8 @@
 - (20.07 - 20.09) Megazone - Pentacle Web Developer Intern
 - (20.12 -  ~ING) ZUMinternet - [ZUM](https://zum.com/) Web Developer 
 
-## RESUME
-- [이력서](https://github.com/ggomjae/ggomjae_resume/blob/main/README.md)
+## Resume
+- 경력 및 프로젝트 내용 : [RESUME](https://github.com/ggomjae/ggomjae_resume/blob/main/README.md)
 
 ## Interest 
 - Web 
